@@ -46,6 +46,7 @@ Model shows **increasing reward** & **better ranking** with training.
 
 ---
 
+```md
 # 📂 Project Structure
 ---
 
@@ -54,6 +55,7 @@ Music-Reinforcement-Recommendation-System/
 ├── requirements.txt
 └── data/
     └── songs.csv
+```
 
 
 

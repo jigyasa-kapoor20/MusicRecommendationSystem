@@ -52,8 +52,9 @@ Model shows **increasing reward** & **better ranking** with training.
 Music-Reinforcement-Recommendation-System/
 ├── main.py
 ├── requirements.txt
-├── data/
+└── data/
     └── songs.csv
+
 
 
 

@@ -47,7 +47,11 @@ Model shows **increasing reward** & **better ranking** with training.
 ---
 
 ## 📂 Project Structure
-
+Music-Reinforcement-Recommendation-System/
+├── main.py
+├── requirements.txt
+├── data/
+ └── songs.csv
 ---
 
 # ▶️ How to Run

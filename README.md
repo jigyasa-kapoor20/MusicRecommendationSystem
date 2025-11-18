@@ -45,10 +45,8 @@ Metrics used:
 Model shows **increasing reward** & **better ranking** with training.
 
 ---
-
-```md
 # 📂 Project Structure
----
+```md
 
 Music-Reinforcement-Recommendation-System/
 ├── main.py
